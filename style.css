@@ -122,6 +122,16 @@ body {
     display: flex;
     
   }
+
+  
+
+  .text-container {
+    width: 75%;
+    margin-left: 30px;
+    color: #08fdd8;
+    letter-spacing: 1.5ch;
+    margin:60px;
+  }
   
   .form-container {
     background-color: rgba(0, 0, 0, 0.4);
